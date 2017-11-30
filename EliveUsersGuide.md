@@ -617,6 +617,10 @@ echo "deb http://ftp.debian.org/debian stable main contrib non-free" >> /etc/apt
     10. Network Storage and Management (NFS, SMB)
     11. Service Configuration (DHCP, FTP, DNS, SSH, HTTP etc...)    
     12. Linux Shell Scripting
+### The linux boot process
+
+Here is an overview of a Linux system boot process. 
+
 
 ## User Management
 
